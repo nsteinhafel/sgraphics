@@ -6,7 +6,6 @@
  * github.com/nsteinhafel
  *
  * Hopefully this will evolve into a game or two.
- * Here's to productivity out of boredom!
  */
 
 // COMMON FUNCTIONS
